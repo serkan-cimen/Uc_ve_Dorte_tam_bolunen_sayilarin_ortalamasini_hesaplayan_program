@@ -1,0 +1,2 @@
+# Uc_ve_Dorte_tam_bolunen_sayilarin_ortalamasini_hesaplayan_program
+Uc_ve_Dorte_tam_bolunen_sayilarin_ortalamasini_hesaplayan_program
